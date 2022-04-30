@@ -1,7 +1,7 @@
-# githubtest
+# Repository Test
 just for learning purposes!
-## subheader
+## subheader test 1
 arjay testing
-## local development
+## subheader test 2
 1. create a file.
 2. hello world.
